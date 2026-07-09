@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2563EB&height=200&section=header&text=Arya%20Thakkar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;React.js+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB;AI%2FLLM+Integration+%26+Cloud+Deployment;B.Tech+Computer+Engineering+%40+DJSCE" alt="Typing SVG" />
 
 <br/>
@@ -18,15 +16,15 @@
 
 <br/>
 
-## 🧭 About Me
+## About Me
 
 I'm a full-stack developer who takes systems from architecture to deployment — across healthcare, CRM, and real-time transaction domains. I bring strong foundations in **Python, JavaScript, Java, and SQL**, with applied experience folding **AI/LLMs, cloud infrastructure, and data-driven design** into products that hold up under real load.
 
-**🎯 Currently open to:** Software Engineering Internships · Full-Stack Development Roles · AI/ML Applied Engineering
+**Currently open to:** Software Engineering Internships · Full-Stack Development Roles · AI/ML Applied Engineering
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -60,13 +58,13 @@ I'm a full-stack developer who takes systems from architecture to deployment —
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🩺 [REVIVE](https://github.com/arya-thakkar/arya_revive.git)
+###  [REVIVE](https://github.com/arya-thakkar/arya_revive.git)
 **AI-Powered Recovery Platform**
 
 `React` `Node.js` `PostgreSQL` `Supabase` `LLM API`
@@ -86,7 +84,7 @@ Full-stack CRM with a 5-stage lead pipeline, replacing manual spreadsheets with 
 </td>
 <td width="33%" valign="top">
 
-### 🎟️ [Sort My Scene](https://github.com/arya-thakkar/sort_my_scene.git)
+###  [Sort My Scene](https://github.com/arya-thakkar/sort_my_scene.git)
 **Real-Time Ticket Booking**
 
 `React` `Node.js` `Express` `MongoDB` `Atomic Tx`
@@ -99,7 +97,7 @@ High-concurrency booking platform with a 5-minute atomic seat-hold mechanism, el
 
 <br/>
 
-## 💼 Experience
+##  Experience
 
 **Software Development Mentee** · Unicode — DJSCE Technology Club
 `Sep 2025 – Jun 2026` · Mumbai, India
@@ -119,7 +117,7 @@ Contributed to web-based digital infrastructure for event registration, scheduli
 
 <br/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -129,7 +127,7 @@ Contributed to web-based digital infrastructure for event registration, scheduli
 
 <br/>
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
